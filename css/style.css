@@ -998,3 +998,36 @@ table {
     padding-top: 20px;
   }
 }
+/* 5 */
+@media screen and (max-width:420px){
+  .nav-items ul li a {
+    padding: 8px;
+}
+  .search-icon{
+    display: none;
+  }
+  .nav-links{
+    margin-bottom: 10px;
+  }
+  .banner-wraptext p {
+    font-size: 1.3rem;
+    padding-bottom: 15px;
+    text-align: justify;
+}
+.dance-card {
+  margin: 10px auto;
+}
+.pricecards-container{
+  width: 100%;
+}
+.card-price{
+  width: 75%;
+}
+.amazing-text{
+  margin-top: -25%;
+}
+.sub-form input {
+  width: 50%;
+}
+
+}
